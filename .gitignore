@@ -1,0 +1,5 @@
+# Default ignored files
+/.idea
+/target
+.gitattributes
+spring-geode-samples-getting-started-maven.iml
